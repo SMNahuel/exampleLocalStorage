@@ -23,7 +23,10 @@
   margin: 2em; 
 }
 .header-bar{
-  background-color: black;
+  background-color: transparent;
   font-size: 2rem;
   width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
